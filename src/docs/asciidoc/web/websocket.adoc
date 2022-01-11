@@ -918,7 +918,7 @@ message-id:nxahklf6-1
 subscription:sub-1
 destination:/topic/price.stock.MMM
 
-{"ticker":"MMM","price":129.45}^@
+{"ticket":"MMM","price":129.45}^@
 ----
 
 A server cannot send unsolicited messages. All messages
